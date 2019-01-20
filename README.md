@@ -17,9 +17,9 @@ All I wanna you to do is, Yes! I want you to play a game.
 
 ## Rules of the Game 
 
-These are the golden rules you are expected to follow. I will NOT accept any submissions if these guidelines are not followed.
+These are the golden rules you are expected to follow. I will **NOT** accept any submissions if these guidelines are not followed.
 
-- Fork this Repository to your Github account and Clone it to your local machines.
+- Fork this Repository to your Github account and Clone it to your local machine.
 - Make a new branch in your repository and switch to this branch using command line. (Hint? Ok! Search for `git checkout` and how to use it on google)
 - Write a draft, create new stuff, make changes, make it beautiful (and blah blah blah blah, ya ya ya ya) and save these changes locally.
 - After finishing your assignment, push back the code to your fork and make a pull request back to this original repository.
