@@ -38,7 +38,7 @@ Alrighty then, to win this game, you will be building **CC-Zone WebApp** (of cou
   - (Bonus): Add a Navigation Bar with the items being `CC-Zone Logo` of CC-Zone at the left and `Home` next to it.
   
 - After User Authentication:
-  - Items displayed on the navbar should change to `CC-ZOne Logo`, `Home` on the left side and `User Profile` on the right.
+  - Items displayed on the navbar should change to `CC-Zone Logo`, `Home` on the left side and `User Profile` on the right.
   - `Home Page` should display a Feed with Posts listed in reverse chronological order. (Not the same login page again)
   - Include a NEW POST/ COMPOSE button on the `Home Page` to add new posts.
   - `Home Page`: For each post in the feed, include:
@@ -60,7 +60,7 @@ At the time (5:30 AM already! Phew!) I'm writing this, I want to share with all 
 
 So, just in case you are not selected (just in case dear! just in case!) **Don't Give Up! Ever!** Follow your passion, keep doing what you want to do. 
 
-(Sounds good, but what if you I'm stuck at some point?) 
+(Sounds good, but what if I'm stuck at some point?) 
 Don't worry, we are always here to help you out. It's not necessary to be a part of **Coding Club** for that :)
 
 ### Good Luck!
