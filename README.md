@@ -7,7 +7,7 @@ Welcome to the Official GitHub Repository for Coding Club Recruitments!
 
 Don't worry, I won't be assigning anything super-duper difficult to you (or, maybe it's a lie! :P).
 
-All I wanna you to do is, Yes! I want you to play a game.
+All I wanna do is, Yes! I want you to play a game.
 
 
 
